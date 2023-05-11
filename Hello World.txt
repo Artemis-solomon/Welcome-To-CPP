@@ -1,0 +1,68 @@
+CONGRATULATIONS!!! You have written your very first program!
+I am going to explain what is exactly going on in the 4 examples I have in "Hello World.cpp".
+
+Example 1:
+This is the more common way you will see this written.
+The Header File Library, acts as a predefined function library.
+  
+//Header File Library
+#include <iostream>
+  
+<iostream> is the library that has all the predefined functions for input and output.
+This allows the user to have the program ask for information and print it out to the console.
+
+//Function
+int main()
+{
+	std::cout << "Hello World!";
+	return 0;
+}
+
+int stands for integer. [return an integer of 0]
+main stands for main function.
+Once the main function has been executed, the program will return a integer.
+std stands for Standard Library.
+The double colon[::] is a Operator.
+cout [see-out] is an Object.
+<< is a Insertion Operator.
+return tells the program what integer to "return" after the program has successfully executed.
+
+Example 2:
+//select our header file library
+#include <iostream>
+
+//using namespace, allows us not to have to place std:: before our operators.
+//this is poor programming but people do do it.
+using namespace std;
+
+int main()
+{
+	cout << "Hello World!" << endl;
+	return 0;
+}
+//endl is a manipulator, when the program encounters it, it flushes the output buffer and creates a new line.
+//This code is the "lazy way".
+
+Example 3:
+//select our header file library
+#include <iostream> //input/output library
+#include <iomanip> //manipulates output "formatting"
+
+int main()
+{
+	std::cout << setw(10) << "Hello" "World!";
+	return 0;	
+}
+//setw() helps in changing the width of the next input or output field.
+// I split up Hello World to show you that the computer will still output Hello World!.
+
+Example 4:
+//File header library
+#include <iostream>
+
+int main()
+{
+	std::cout << "Hello World!" << std::endl;
+	return 0;
+}
+//There are several ways to achieve the same outcome.
