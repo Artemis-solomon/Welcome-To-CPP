@@ -1,0 +1,34 @@
+1. Class: A class is a blueprint that defines the variables and the methods common to all objects of a certain kind.
+
+2. Object: An object is an instance of a class. It is a self-contained entity that consists of both data and procedures to manipulate the data.
+
+3. Member Variable: A member variable is a variable associated with a specific object or class. It is a type of variable that is accessible only to the member functions of the 
+class in which it is declared.
+
+4. Method: A method is a function or procedure associated with a class. It is a code block that contains a series of statements that perform a specific task.
+
+5. Inheritance: Inheritance is the process by which one class can acquire the properties of another class. It is a way of creating a new class from an existing one by 
+extending or modifying the existing class.
+
+6. Polymorphism: Polymorphism is the ability of an object to take on multiple forms. It is a way of abstracting the behavior of objects so that they can be used interchangeably 
+and can be treated differently based on their type or class.
+
+7. Encapsulation: Encapsulation is the process of combining data and functions into a single unit called an object. It is a way of protecting the data from outside interference 
+and misuse by providing an interface to the object that only allows access to the data and functions in a controlled manner.
+
+8. Template: A template is a generic definition of a data type or a function. It is a way of specifying a set of rules that can be used to create a generic type or function 
+that can be used with any data type or function.
+
+9. Namespace: A namespace is a collection of classes, functions, and variables that are grouped together within a scope. It is a way of organizing code into logical groups 
+and preventing naming conflicts.
+
+10. STL (Standard Template Library): The Standard Template Library (STL) is a collection of generic algorithms and data structures that are designed to work with any type of data. 
+It is a way of providing a standard library of algorithms and data structures that can be used in any C++ program.
+
+11. Compiler: A computer program that translates source code written in a programming language into machine code that can be executed.
+
+12. Object-Oriented Programming (OOP): A programming approach that focuses on the creation and manipulation of objects.
+
+13. Constructor: A special function that is called when an object is created, which is used to set up the initial state of the object.
+
+14. Destructor: A special function that is called when an object is destroyed, which is used to free up any resources associated with the object.
