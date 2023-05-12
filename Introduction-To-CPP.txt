@@ -1,0 +1,9 @@
+Welcome to the Intro to C++ course! This course is designed to help you understand the basics of programming in the C++ language.
+
+C++ is an object-oriented programming language that was first developed in the early 1980s. It is used to create a wide range of applications from video games to operating systems. C++ has been used to create some of the most popular software in the world, such as Adobe Photoshop and Microsoft Office.
+
+In this course, you will learn the fundamentals of C++ programming. You will be introduced to variables, data types, control structures, functions, classes, and more. You will also get to practice coding with real-world projects.
+
+By the end of this course, you will have the skills to write basic C++ programs and understand the fundamentals of programming. You will be ready to take on more advanced C++ topics and create your own applications.
+
+We hope you enjoy the course and good luck!
