@@ -10,7 +10,7 @@ To get the most out of this course, it is recommended that you have a positive a
 
 # Course Outline
 
-1. <a href="https://github.com/Artemis-solomon/Welcome-To-CPP/wiki/Introduction-to-C--">Introduction to C++ </a>
+1. <a href="https://github.com/Artemis-solomon/Welcome-To-CPP/wiki/Introduction-to-C">Introduction to C++ </a>
 2. <a href="https://github.com/Artemis-solomon/Welcome-To-CPP/wiki/Hello-World!">Hello World! </a>
 3. <a href="https://github.com/Artemis-solomon/Welcome-To-CPP/wiki/Output">Output </a>
 4. <a href="https://github.com/Artemis-solomon/Welcome-To-CPP/wiki/Comments">Comments </a>
