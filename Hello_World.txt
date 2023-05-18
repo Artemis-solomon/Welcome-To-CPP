@@ -1,3 +1,6 @@
+Written by: Artemis Solomon
+Welcome to C++: Hello World
+
 CONGRATULATIONS!!! You have written your very first program!
 I am going to explain what is exactly going on in the 4 examples I have in "Hello World.cpp".
 
