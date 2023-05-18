@@ -1,3 +1,6 @@
+//Written by: Artemis Solomon
+//Welcome to C++: Hello World Worksheet
+
 //It is time to put what you just learned to use!
 //Follow the directions below to complete the worksheet.
 
