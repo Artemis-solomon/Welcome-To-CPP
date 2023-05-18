@@ -1,5 +1,5 @@
-//Artemis Solomon
-//Welcome to C++: Hello World
+//Written by: Artemis Solomon
+//Welcome to C++: Hello World 
 //Example 1
 
 //Header File Library
