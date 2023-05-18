@@ -1,3 +1,5 @@
+//Written by: Artemis Solomon
+//Welcome to C++: Hello World Exercise
 //Below are 5 different exercises.
 //Exercise 1:
 //Instructions: Place the [#] and [<>] signs where they go. 
