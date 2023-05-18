@@ -1,3 +1,6 @@
+Written by: Artemis Solomon
+Welcome to C++: Hello World
+
 Welcome to the Intro to C++ course! This course is designed to help you understand the basics of programming in the C++ language.
 
 C++ is an object-oriented programming language that was first developed in the early 1980s. It is used to create a wide range of applications from video games to operating systems. C++ has been used to create some of the most popular software in the world, such as Adobe Photoshop and Microsoft Office.
