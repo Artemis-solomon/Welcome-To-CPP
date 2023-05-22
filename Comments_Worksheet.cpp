@@ -27,7 +27,7 @@ return 0; //Program returns an integer (number) 0 when program is executed compl
 //INSERT COMMENTS HERE
 int main()
 {
-  std::_____ << "Hello World!"; //INSERT COMMENTS HERE
+  std::cout << "Hello World!"; //INSERT COMMENTS HERE
   return 0; //INSERT COMMENTS HERE
 }
 
@@ -43,7 +43,7 @@ int main()
 int main() //INSERT COMMENTS HERE
 {
   std::cout << "Hello World!" << std::endl; //INSERT COMMENTS HERE
-  std::cout << "My Name is <INSERT YOUR NAME HERE>"; //INSERT COMMENTS HERE
+  std::cout << "My Name is Artemis"; //INSERT COMMENTS HERE
   return 0; //INSERT COMMENTS HERE
 }
 //INSERT COMMENTS HERE
