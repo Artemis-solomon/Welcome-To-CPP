@@ -1,0 +1,16 @@
+Comments in C++
+Comments are lines of text which are ignored by the compiler and are used to explain the code or to make the code easier to understand for humans. In C++, comments are either single line or multi-line.
+
+Single Line Comments
+A single line comment starts with double forward slashes "//". Anything that follows the slashes is considered a comment and is ignored by the compiler. For example:
+
+// This is a single line comment 
+Multi-Line Comments
+
+Multi-line comments start with a forward slash and asterisk "/" and end with an asterisk and forward slash "/". Anything between the symbols is considered a comment and is ignored by the compiler. For example:
+
+/* This is a 
+multi-line 
+comment */
+
+Comments are very useful in helping other developers to understand the code. It is a good practice to write comments for all the functions, classes, and variables that you create in your code.
