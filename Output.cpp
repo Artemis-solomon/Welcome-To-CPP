@@ -1,3 +1,4 @@
+//Written by: Artemis Solomom
 //Welcome To C++: Output
 //Output is when the program "prints" data to the console "screen".
 //Example 1:
