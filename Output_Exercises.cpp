@@ -1,3 +1,6 @@
+//Written by: Artemis Solomon
+//Welcome to C++: Output Exercise
+
 //For this exercise you will be writing the entire program.
 //Use the same steps from "Hello World!" module.
 
