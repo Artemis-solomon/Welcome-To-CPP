@@ -1,4 +1,8 @@
+//Written by: Artemis Solomon
+//Welcome to C++: Comments
+
 Comments in C++
+
 Comments are lines of text which are ignored by the compiler and are used to explain the code or to make the code easier to understand for humans. In C++, comments are either single line or multi-line.
 
 Single Line Comments
