@@ -1,3 +1,6 @@
+//Written by: Artemis Solomon
+//Welcome to C++: Output Worksheet Answers
+
 //Exercise 1:
 //What do this program output to the console
 
